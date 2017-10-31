@@ -49,5 +49,24 @@ folium.Marker([-6.8451229, 107.9243798], popup='<i>Toko Panjang Putra</i>').add_
 
 folium.Marker([-6.875558, 107.969356], popup='<i>Cikadu</i>').add_to(maps)
 
+folium.Marker([-6.834591, 107.929401], popup='<i>PT. Srikandi Diamond Motors - Sumedang</i>').add_to(maps)
+
+folium.Marker([-6.834621, 107.929130], popup='<i>Apotek Sifa Farma</i>').add_to(maps)
+
+folium.Marker([-6.834741, 107.929622], popup='<i>Mitsubishi Motors</i>').add_to(maps)
+
+folium.Marker([-6.833535, 107.927851], popup='<i>Masjid Sholahuddin Al-Ayubi</i>').add_to(maps)
+
+folium.Marker([-6.835213, 107.928140], popup='<i>Hotel Asri</i>').add_to(maps)
+
+folium.Marker([-6.835795, 107.929062], popup='<i>Plaza Asia Sumedang</i>').add_to(maps)
+
+folium.Marker([-6.836900, 107.929040], popup='<i>Kantor Kelurahan Kotakaler</i>').add_to(maps)
+
+folium.Marker([-6.837912, 107.927848], popup='<i>Biru Jasa, Travel & Tour Perintis</i>').add_to(maps)
+
+folium.Marker([-6.838414, 107.929190], popup='<i>Dewan Kebudayaan Sumedang</i>').add_to(maps)
+
+folium.Marker([-6.838314, 107.928153], popup='<i>Hotel Sapphire Home</i>').add_to(maps)
 
 maps
