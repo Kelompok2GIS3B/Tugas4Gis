@@ -31,12 +31,6 @@ folium.Marker([-6.8451028, 107.9249476], popup='<i>BANK SUMEDANG</i>').add_to(ma
 
 folium.Marker([-6.842935, 107.9246427], popup='<i>Ngopi Heula</i>').add_to(maps)
 
-folium.Marker([-6.844681, 107.9246972], popup='<i>Ethree Cell</i>').add_to(maps)
-
-folium.Marker([-6.845101, 107.9243717], popup='<i>Toko Sahabat</i>').add_to(maps)
-
-folium.Marker([-6.8451229, 107.9243798], popup='<i>Toko Panjang Putra</i>').add_to(maps)
-
 folium.Marker([-6.8448237, 107.9245214], popup='<i>Warung Echo</i>').add_to(maps)
 
 folium.Marker([-6.8448036, 107.9242944], popup='<i>Mie Rasa</i>').add_to(maps)
@@ -47,7 +41,13 @@ folium.Marker([-6.8449819, 107.9243184], popup='<i>PGAK</i>').add_to(maps)
 
 folium.Marker([-6.8446918, 107.9247126], popup='<i>Rejeki Motor</i>').add_to(maps)
 
+folium.Marker([-6.844681, 107.9246972], popup='<i>Ethree Cell</i>').add_to(maps)
 
+folium.Marker([-6.845101, 107.9243717], popup='<i>Toko Sahabat</i>').add_to(maps)
+
+folium.Marker([-6.8451229, 107.9243798], popup='<i>Toko Panjang Putra</i>').add_to(maps)
+
+folium.Marker([-6.875558, 107.969356], popup='<i>Cikadu</i>').add_to(maps)
 
 
 maps
