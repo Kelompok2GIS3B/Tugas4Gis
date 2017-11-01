@@ -91,24 +91,18 @@ folium.Marker([-6.855555, 107.909586], popup='<i>Gn. Palasari</i>').add_to(maps)
 
 folium.Marker([-6.856026,+108.096522], popup='<i>Waduk Jatigede</i>').add_to(maps)
 
-folium.Marker([-6.8408851, 107.9265537], popup='<i>Lippo Bank. PT Tbk</i>').add_to(maps)
+folium.Marker(-6.929583, 107.763515], popup='<i>La Fasa Hotel</i>').add_to(maps)
 
-folium.Marker(-6.8406878, 107.9267814], popup='<i>Yen 80. PO</i>').add_to(maps)
+folium.Marker(-6.935194, 107.759305], popup='<i>Hotel Jatinangor</i>').add_to(maps)
 
-folium.Marker([-6.8404842, 107.9265199], popup='<i>Musik Distro</i>').add_to(maps)
+folium.Marker(-6.854387, 107.919227], popup='<i>Amory Boutique Hotel</i>').add_to(maps)
 
-folium.Marker([-6.8405055, 107.9262383], popup='<i>Berkat Cake & Bakers</i>').add_to(maps)
+folium.Marker(-6.854389, 107.919222], popup='<i>Puri Mutiara Hotel</i>').add_to(maps)
 
-folium.Marker([-6.8402206, 107.9264099], popup='<i>Toko Aini</i>').add_to(maps)
+folium.Marker(-6.819240, 107.941527], popup='<i>Hotel Pesona Sumedang</i>').add_to(maps)
 
-folium.Marker([-6.8405532, 107.9266987], popup='<i>Primkopabri Sumedang Utara</i>').add_to(maps)
+folium.Marker(-6.934690, 107.769848], popup='<i>Hotel Citra Papan 1</i>').add_to(maps)
 
-folium.Marker([-6.840625, 107.9256641], popup='<i>Gonzo Store</i>').add_to(maps)
-
-folium.Marker([-6.8405498, 107.9256541], popup='<i>Ria Busana</i>').add_to(maps)
-
-folium.Marker([-6.8405951, 107.9257271], popup='<i>Pizza Hut Delivery - PHD Indonesia</i>').add_to(maps)
-
-folium.Marker([-6.8404852, 107.925876], popup='<i>ATM BNI ATM KLINIK BUNDA MEDIKA</i>').add_to(maps)
+folium.Marker(-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Resort</i>').add_to(maps)
 
 maps
