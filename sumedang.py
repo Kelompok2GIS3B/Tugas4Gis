@@ -105,4 +105,6 @@ folium.Marker(-6.934690, 107.769848], popup='<i>Hotel Citra Papan 1</i>').add_to
 
 folium.Marker(-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Resort</i>').add_to(maps)
 
+folium.Marker(-6.725559, 107.944638], popup='<i>Bojongloa</i>').add_to(maps)
+
 maps
