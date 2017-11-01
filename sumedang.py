@@ -69,4 +69,26 @@ folium.Marker([-6.838414, 107.929190], popup='<i>Dewan Kebudayaan Sumedang</i>')
 
 folium.Marker([-6.838314, 107.928153], popup='<i>Hotel Sapphire Home</i>').add_to(maps)
 
+folium.Marker([-6.901420, 108.020060], popup='<i>Paralayang Batu Dua</i>').add_to(maps)
+
+folium.Marker([-6.906843, 108.014631], popup='<i>Gunung Lingga</i>').add_to(maps)
+
+folium.Marker([-6.764677, 107.959659], popup='<i>Camp Area Puncak Gunung Tampomas</i>').add_to(maps)
+
+folium.Marker([-6.752123, 107.985788], popup='<i>Curug Ciputrawangi</i>').add_to(maps)
+
+folium.Marker([-6.962981, 107.882695], popup='<i>Curug Cinulang (Sindulang)</i>').add_to(maps)
+
+folium.Marker([-6.913678, 107.977646], popup='<i>Curug Gorobog</i>').add_to(maps)
+
+folium.Marker([-6.791094, 107.924570], popup='<i>Mata Air Cikandung</i>').add_to(maps)
+
+folium.Marker([-6.706107, 107.909527], popup='<i>Danau Biru Situ Cilembang</i>').add_to(maps)
+
+folium.Marker([-6.769249, 108.003982], popup='<i>Sirah Cipelang</i>').add_to(maps)
+
+folium.Marker([-6.855555, 107.909586], popup='<i>Gn. Palasari</i>').add_to(maps)
+
+folium.Marker([-6.856026,+108.096522], popup='<i>Waduk Jatigede</i>').add_to(maps)
+
 maps
