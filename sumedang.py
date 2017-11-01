@@ -91,4 +91,24 @@ folium.Marker([-6.855555, 107.909586], popup='<i>Gn. Palasari</i>').add_to(maps)
 
 folium.Marker([-6.856026,+108.096522], popup='<i>Waduk Jatigede</i>').add_to(maps)
 
+folium.Marker([-6.8408851, 107.9265537], popup='<i>Lippo Bank. PT Tbk</i>').add_to(maps)
+
+folium.Marker(-6.8406878, 107.9267814], popup='<i>Yen 80. PO</i>').add_to(maps)
+
+folium.Marker([-6.8404842, 107.9265199], popup='<i>Musik Distro</i>').add_to(maps)
+
+folium.Marker([-6.8405055, 107.9262383], popup='<i>Berkat Cake & Bakers</i>').add_to(maps)
+
+folium.Marker([-6.8402206, 107.9264099], popup='<i>Toko Aini</i>').add_to(maps)
+
+folium.Marker([-6.8405532, 107.9266987], popup='<i>Primkopabri Sumedang Utara</i>').add_to(maps)
+
+folium.Marker([-6.840625, 107.9256641], popup='<i>Gonzo Store</i>').add_to(maps)
+
+folium.Marker([-6.8405498, 107.9256541], popup='<i>Ria Busana</i>').add_to(maps)
+
+folium.Marker([-6.8405951, 107.9257271], popup='<i>Pizza Hut Delivery - PHD Indonesia</i>').add_to(maps)
+
+folium.Marker([-6.8404852, 107.925876], popup='<i>ATM BNI ATM KLINIK BUNDA MEDIKA</i>').add_to(maps)
+
 maps
