@@ -107,4 +107,12 @@ folium.Marker(-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Res
 
 folium.Marker(-6.725559, 107.944638], popup='<i>Bojongloa</i>').add_to(maps)
 
+folium.Marker(-6.740561, 108.006436], popup='<i>Conggeang</i>').add_to(maps)
+
+folium.Marker(-7.030962, 108.135526], popup='<i>Wado</i>').add_to(maps)
+
+folium.Marker(-6.946450, 107.885587], popup='<i>Cimanggung</i>').add_to(maps)
+
+folium.Marker(-6.606890, 107.869107], popup='<i>Tanjung</i>').add_to(maps)
+
 maps
