@@ -165,6 +165,19 @@ folium.Marker(-6.928392, 107.779781], popup='<i>Rumah Makan Sawargi</i>').add_to
 
 folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i>').add_to(m)
 
+
+ #M.Fajri Mualim
+ folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
+ folium.Marker(-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
+ folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+ folium.Marker(-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
+ folium.Marker(-6.823746, 107.751008], popup='<i>Genteng</i>').add_to(m)
+ folium.Marker(-6.582335, 107.860871], popup='<i>Tanjung</i>').add_to(m)
+ folium.Marker(-6.642358, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+ folium.Marker(-6.988708, 108.039399], popup='<i>Jayamandiri</i>').add_to(m)
+ folium.Marker(-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
+ folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
+
 #jangan dihapus gan ini punya faisal
 folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
 folium.Marker(-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
