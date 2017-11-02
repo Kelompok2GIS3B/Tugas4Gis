@@ -139,6 +139,18 @@ folium.Marker(-6.946450, 107.885587], popup='<i>Cimanggung</i>').add_to(m)
 
 folium.Marker(-6.606890, 107.869107], popup='<i>Tanjung</i>').add_to(m)
 
+#jangan dihapus gan ini punya agung
+folium.Marker([-6.8357715, 107.9294052], popup='<i>KPPN Sumedang</i>').add_to(m)
+folium.Marker([-6.8358094, 107.9294468], popup='<i>ATM BRI KPPN Sumedang</i>').add_to(m)
+folium.Marker([-6.8358272, 107.9293961], popup='<i>ATM CIMB Niaga (Plaza Asia Sumedang)</i>').add_to(m)
+folium.Marker([-6.8358326, 107.9293944], popup='<i>The Cups</i>').add_to(m)
+folium.Marker([-6.8358541, 107.9294088], popup='<i>DKOFFIE LAB</i>').add_to(m)
+folium.Marker([-6.8358127, 107.9294333], popup='<i>Raja Sosis</i>').add_to(m)
+folium.Marker([-6.8357366, 107.9294853], popup='<i>Juragan Seafood</i>').add_to(m)
+folium.Marker([-6.8357065, 107.9295226], popup='<i>Rumah Ice Cream</i>').add_to(m)
+folium.Marker([-6.8356806, 107.9295304], popup='<i>Dorado Fresh Drinks</i>').add_to(m)
+folium.Marker([-6.8356198, 107.9295337], popup='<i>Davina Baby Shop</i>').add_to(m)
+
 
 folium.RegularPolygonMarker(
     [-6.865854, 108.064279],
