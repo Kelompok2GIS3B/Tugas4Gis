@@ -87,7 +87,7 @@ folium.Marker([-6.835795, 107.929062], popup='<i>Plaza Asia Sumedang</i>').add_t
 
 folium.Marker([-6.836900, 107.929040], popup='<i>Kantor Kelurahan Kotakaler</i>').add_to(m)
 
-folium.Marker([-6.837912, 107.927848], popup='<i>Biru Jasa, Travel & Tour Perintis</i>').add_to(m)
+folium.Marker([-6.837912, 107.927848], popup='<i>Biro Jasa, Travel & Tour Perintis</i>').add_to(m)
 
 folium.Marker([-6.838414, 107.929190], popup='<i>Dewan Kebudayaan Sumedang</i>').add_to(m)
 
@@ -168,23 +168,38 @@ folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i
 
  #M.Fajri Mualim
  folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
+
  folium.Marker(-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
+
  folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+
  folium.Marker(-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
+
  folium.Marker(-6.823746, 107.751008], popup='<i>Genteng</i>').add_to(m)
+
  folium.Marker(-6.582335, 107.860871], popup='<i>Tanjung</i>').add_to(m)
+
  folium.Marker(-6.642358, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+
  folium.Marker(-6.988708, 108.039399], popup='<i>Jayamandiri</i>').add_to(m)
+
  folium.Marker(-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
+
  folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
 
 #jangan dihapus gan ini punya faisal
 folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
+
 folium.Marker(-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
+
 folium.Marker(-6.939296, 107.990470], popup='<i>Gn. Margawindu</i>').add_to(m)
+
 folium.Marker(-6.876860, 107.909446], popup='<i>Kampung Toga</i>').add_to(m)
+
 folium.Marker(-6.925465, 107.779360], popup='<i>Jembatan Cincin Cikuda</i>').add_to(m)
+
 folium.Marker(-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>').add_to(m)
+
 folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
 
 folium.RegularPolygonMarker(
@@ -206,16 +221,45 @@ folium.RegularPolygonMarker(
 
 #jangan dihapus gan ini punya agung
 folium.Marker([-6.8357715, 107.9294052], popup='<i>KPPN Sumedang</i>').add_to(m)
+
 folium.Marker([-6.8358094, 107.9294468], popup='<i>ATM BRI KPPN Sumedang</i>').add_to(m)
+
 folium.Marker([-6.8358272, 107.9293961], popup='<i>ATM CIMB Niaga (Plaza Asia Sumedang)</i>').add_to(m)
+
 folium.Marker([-6.8358326, 107.9293944], popup='<i>The Cups</i>').add_to(m)
+
 folium.Marker([-6.8358541, 107.9294088], popup='<i>DKOFFIE LAB</i>').add_to(m)
+
 folium.Marker([-6.8358127, 107.9294333], popup='<i>Raja Sosis</i>').add_to(m)
+
 folium.Marker([-6.8357366, 107.9294853], popup='<i>Juragan Seafood</i>').add_to(m)
+
 folium.Marker([-6.8357065, 107.9295226], popup='<i>Rumah Ice Cream</i>').add_to(m)
+
 folium.Marker([-6.8356806, 107.9295304], popup='<i>Dorado Fresh Drinks</i>').add_to(m)
+
 folium.Marker([-6.8356198, 107.9295337], popup='<i>Davina Baby Shop</i>').add_to(m)
 
+#punya ara
+folium.Marker([-6.770038, 107.970807], popup='<i>Gunung Karang. Anak Gunung Tampomas </i>').add_to(m)
+
+folium.Marker([-6.797147, 107.929517], popup='<i>Adiluhung Futsal</i>').add_to(m)
+
+folium.Marker([-6.800098, 107.930365], popup='<i>Majelis Taklim (MT) Darussalam</i>').add_to(m)
+
+folium.Marker([-6.794774, 107.935292], popup='<i>Getx</i>').add_to(m)
+
+folium.Marker([-6.796450, 107.930447], popup='<i>Kantor Desa Nyalindung</i>').add_to(m)
+
+folium.Marker([-6.796397, 107.933164], popup='<i>Warung Bu Neno</i>').add_to(m)
+
+folium.Marker([-6.795726, 107.930586], popup='<i>LAPANGAN BOLA NYALINDUNG</i>').add_to(m)
+
+folium.Marker([-6.794670, 107.924566], popup='<i>PT. Pertani Sumedang</i>').add_to(m)
+
+folium.Marker([-6.793120, 107.921288], popup='<i>Majelis Taklim (MT) Al Musri</i>').add_to(m)
+
+folium.Marker([-6.858972, 107.920560], popup='<i>Gedung DPRD Sumedang</i>').add_to(m)
 
 folium.RegularPolygonMarker(
     [-6.865854, 108.064279],
@@ -299,4 +343,4 @@ save(m, '4.html')
 save(a, '5.html')
 save(p, '6.html')
 
-#ada perubahan dalam pendeklarasian jadi mohon menyesuaikan yg lainnya.
+#syntax [ diperhatiin ya pada gak ada edit sendiri
