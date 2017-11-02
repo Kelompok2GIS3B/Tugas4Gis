@@ -139,6 +139,32 @@ folium.Marker(-6.946450, 107.885587], popup='<i>Cimanggung</i>').add_to(m)
 
 folium.Marker(-6.606890, 107.869107], popup='<i>Tanjung</i>').add_to(m)
 
+#jangan dihapus gan ini punya faisal
+folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
+folium.Marker(-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
+folium.Marker(-6.939296, 107.990470], popup='<i>Gn. Margawindu</i>').add_to(m)
+folium.Marker(-6.876860, 107.909446], popup='<i>Kampung Toga</i>').add_to(m)
+folium.Marker(-6.925465, 107.779360], popup='<i>Jembatan Cincin Cikuda</i>').add_to(m)
+folium.Marker(-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>').add_to(m)
+folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
+
+folium.RegularPolygonMarker(
+    [-6.898942, 107.352916],
+    popup='Curug Cukang Rahong',
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+).add_to(m)
+
+folium.RegularPolygonMarker(
+    [-6.917003, 107.848504],
+    popup='Pangjugjugan',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+).add_to(m)
+
+
 #jangan dihapus gan ini punya agung
 folium.Marker([-6.8357715, 107.9294052], popup='<i>KPPN Sumedang</i>').add_to(m)
 folium.Marker([-6.8358094, 107.9294468], popup='<i>ATM BRI KPPN Sumedang</i>').add_to(m)
