@@ -260,4 +260,18 @@ save(m, '4.html')
 save(a, '5.html')
 save(p, '6.html')
 
+#M.Fajri Mualim
+folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
+folium.Marker(-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
+folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+folium.Marker(-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
+folium.Marker(-6.823746, 107.751008], popup='<i>Genteng</i>').add_to(m)
+folium.Marker(-6.582335, 107.860871], popup='<i>Tanjung</i>').add_to(m)
+folium.Marker(-6.642358, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+folium.Marker(-6.988708, 108.039399], popup='<i>Jayamandiri</i>').add_to(m)
+folium.Marker(-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
+folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
+                                                                    
+
+
 #ada perubahan dalam pendeklarasian jadi mohon menyesuaikan yg lainnya.
