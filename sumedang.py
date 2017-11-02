@@ -139,6 +139,32 @@ folium.Marker(-6.946450, 107.885587], popup='<i>Cimanggung</i>').add_to(m)
 
 folium.Marker(-6.606890, 107.869107], popup='<i>Tanjung</i>').add_to(m)
 
+folium.Marker(-6.811901, 107.945918], popup='<i>R.M Joglo Sumedang</i>').add_to(m)
+
+folium.Marker(-6.822698, 107.939604], popup='<i>Saung Teko</i>').add_to(m)
+
+folium.Marker(-6.803828, 107.969396], popup='<i>Rumah Makan Fish 88</i>').add_to(m)
+
+folium.Marker(-6.824482, 107.938373], popup='<i>Rumah Makan Alam Sari</i>').add_to(m)
+
+folium.Marker(-6.797927, 107.990906], popup='<i>Rumah Makan Mah Nini</i>').add_to(m)
+
+folium.Marker(-6.808967, 107.955017], popup='<i>Kartika Rumah Makan</i>').add_to(m)
+
+folium.Marker(-6.922459, 107.782507], popup='<i>Rumah Makan Tahu Sumedang Sari Kedele,</i>').add_to(m)
+
+folium.Marker(-6.914389, 107.789620], popup='<i>Rumah Makan Organik Saung Nini</i>').add_to(m)
+
+folium.Marker(-6.864310, 107.872910], popup='<i>Ponyo Sumedang</i>').add_to(m)
+
+folium.Marker(-6.835067, 107.925451], popup='<i>Rumah Makan Minang Bahari</i>').add_to(m)
+
+folium.Marker(-6.840218, 107.925675], popup='<i>Tahu Palasari Sumedang</i>').add_to(m)
+
+folium.Marker(-6.928392, 107.779781], popup='<i>Rumah Makan Sawargi</i>').add_to(m)
+
+folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i>').add_to(m)
+
 #jangan dihapus gan ini punya faisal
 folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
 folium.Marker(-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
@@ -259,19 +285,5 @@ p
 save(m, '4.html')
 save(a, '5.html')
 save(p, '6.html')
-
-#M.Fajri Mualim
-folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
-folium.Marker(-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
-folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
-folium.Marker(-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
-folium.Marker(-6.823746, 107.751008], popup='<i>Genteng</i>').add_to(m)
-folium.Marker(-6.582335, 107.860871], popup='<i>Tanjung</i>').add_to(m)
-folium.Marker(-6.642358, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
-folium.Marker(-6.988708, 108.039399], popup='<i>Jayamandiri</i>').add_to(m)
-folium.Marker(-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
-folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
-                                                                    
-
 
 #ada perubahan dalam pendeklarasian jadi mohon menyesuaikan yg lainnya.
