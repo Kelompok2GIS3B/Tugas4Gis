@@ -165,6 +165,26 @@ folium.Marker(-6.928392, 107.779781], popup='<i>Rumah Makan Sawargi</i>').add_to
 
 folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i>').add_to(m)
 
+folium.Marker(-6.854103, 107.920521], popup='<i>SMAN 1 Sumedang</i>').add_to(m)
+
+folium.Marker(-6.926752, 107.779859], popup='<i>SMAS PGRI Jatinangor</i>').add_to(m)
+
+folium.Marker(-6.837319, 107.929554], popup='<i>SMAN 3 Sumedang</i>').add_to(m)
+
+folium.Marker(-6.939237, 107.788294], popup='<i>SMP Darul Fatwa</i>').add_to(m)
+
+folium.Marker(-6.835841, 107.928380], popup='<i>SMK Negeri 2 Sumedang</i>').add_to(m)
+
+folium.Marker(-6.825701, 107.849603], popup='<i>SMAN Rancakalong</i>').add_to(m)
+
+folium.Marker(-6.961688, 107.813104], popup='<i>SMAS Plus Guna Cipta</i>').add_to(m)
+
+folium.Marker(-6.837553, 107.927351], popup='<i>SMKN 1 Sumedang</i>').add_to(m)
+
+folium.Marker(-6.848571, 107.946712], popup='<i>SMAN 2 Sumedang</i>').add_to(m)
+
+folium.Marker(-6.761271, 107.879122], popup='<i>SMAN Tanjungkerta</i>').add_to(m)
+
 
  #M.Fajri Mualim
  folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
