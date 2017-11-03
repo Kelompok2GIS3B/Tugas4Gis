@@ -240,6 +240,27 @@ folium.Marker([-6.8356806, 107.9295304], popup='<i>Dorado Fresh Drinks</i>').add
 
 folium.Marker([-6.8356198, 107.9295337], popup='<i>Davina Baby Shop</i>').add_to(m)
 
+folium.Marker([-6.8464073, 107.9717699], popup='<i>Masjid Jami Husnul Khotimah</i>').add_to(m)
+
+folium.Marker([-6.8463576, 107.9722877], popup='<i>POM MINI</i>').add_to(m)
+
+folium.Marker([-6.8463812, 107.9723746], popup='<i>Pertamina</i>').add_to(m)
+
+folium.Marker([-6.8462047, 107.9724896], popup='<i>Bengkel Mobil Pak Acin</i>').add_to(m)
+
+folium.Marker([-6.8462151, 107.9725305], popup='<i>Salon Elpa Sae</i>').add_to(m)
+
+folium.Marker([-6.8462586, 107.973224], popup='<i>Indomaret Ganeas</i>').add_to(m)
+
+folium.Marker([-6.8462478, 107.9732411], popup='<i>apotek ganeas</i>').add_to(m)
+
+folium.Marker([-6.8463335, 107.9736083], popup='<i>BAKSO MORO SENENG</i>').add_to(m)
+
+folium.Marker([-6.8463442, 107.9736418], popup='<i>Mie Baso & Mie Ayam Moro Seneng</i>').add_to(m)
+
+folium.Marker([-6.8463431, 107.9736559], popup='<i>Baso Sunami Moroseneng</i>').add_to(m)
+
+
 #punya ara
 folium.Marker([-6.770038, 107.970807], popup='<i>Gunung Karang. Anak Gunung Tampomas </i>').add_to(m)
 
