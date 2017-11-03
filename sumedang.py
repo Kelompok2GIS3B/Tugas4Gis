@@ -186,6 +186,26 @@ folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i
  folium.Marker(-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
 
  folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
+    
+ folium.Marker(-6.735106, 108.123170], popup='<i>Ujung Jaya</i>').add_to(m)
+
+ folium.Marker(-6.890556, 107.974854], popup='<i>Ganeas</i>').add_to(m)
+ 
+ folium.Marker(-6.729651, 108.157502], popup='<i>Kudangwangi</i>').add_to(m)
+ 
+ folium.Marker(-6.935545, 108.009187], popup='<i>Cipeuteuy</i>').add_to(m)
+  
+ folium.Marker(-6.807383, 107.792207], popup='<i>Rancakalong</i>').add_to(m)
+    
+ folium.Marker(-6.949177, 107.957002], popup='<i>CItengah</i>').add_to(m)
+
+ folium.Marker(-6.970988, 108.090211], popup='<i>Wado</i>').add_to(m)
+    
+ folium.Marker(-6.664182, 107.983094], popup='<i>Gendereh</i>').add_to(m)
+
+ folium.Marker(-6.945087, 107.907563], popup='<i>Sindulang</i>').add_to(m)
+    
+ folium.Marker(-6.991434, 108.058625], popup='<i>Cipasang</i>').add_to(m)
 
 #Faisal Syarifuddin
 folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
