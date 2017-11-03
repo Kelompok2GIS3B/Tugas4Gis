@@ -187,7 +187,7 @@ folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i
 
  folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
 
-#jangan dihapus gan ini punya faisal
+#Faisal Syarifuddin
 folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
 
 folium.Marker(-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
@@ -201,6 +201,17 @@ folium.Marker(-6.925465, 107.779360], popup='<i>Jembatan Cincin Cikuda</i>').add
 folium.Marker(-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>').add_to(m)
 
 folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
+
+
+folium.Marker(-6.876860, 107.909489], popup='<i>Kampung Toga</i>').add_to(m)
+folium.Marker(-6.948836, 107.767654], popup='<i>Cipacu</i>').add_to(m)
+folium.Marker(-6.950540, 107.805934], popup='<i>Cimanggung</i>').add_to(m)
+folium.Marker(-6.874195, 107.763362], popup='<i>Sukasari</i>').add_to(m)
+folium.Marker(-6.833290, 107.759243], popup='<i>Genteng</i>').add_to(m)
+folium.Marker(-6.900099, 107.818294], popup='<i>Tanjungsari</i>').add_to(m)
+folium.Marker(-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
+folium.Marker(-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
+
 
 folium.RegularPolygonMarker(
     [-6.898942, 107.352916],
