@@ -318,6 +318,27 @@ folium.Marker([-6.8463442, 107.9736418], popup='<i>Mie Baso & Mie Ayam Moro Sene
 
 folium.Marker([-6.8463431, 107.9736559], popup='<i>Baso Sunami Moroseneng</i>').add_to(m)
 
+folium.Marker([-6.8140297, 107.9488648], popup='<i>Dewhirst Menswear</i>').add_to(m)
+
+folium.Marker([-6.8140647, 107.9488752], popup='<i>Adrian Juice</i>').add_to(m)
+
+folium.Marker([-6.8141243, 107.9483978], popup='<i>D17 Merchandise</i>').add_to(m)
+
+folium.Marker([-6.8141504, 107.9484093], popup='<i>Hotel Hegarmanah</i>').add_to(m)
+
+folium.Marker([-6.8141251, 107.9486225], popup='<i>Depot Isi Ulang Aqua Galon</i>').add_to(m)
+
+folium.Marker([-6.8141411, 107.9487227], popup='<i>Terminal Cimalaka</i>').add_to(m)
+
+folium.Marker([-6.8142032, 107.9491908], popup='<i>Big Cellular Cimalaka</i>').add_to(m)
+
+folium.Marker([-6.8142094, 107.9494168], popup='<i>Base SSFL Chapter Sumedang</i>').add_to(m)
+
+folium.Marker([-6.8142058, 107.949503], popup='<i>BJB Cimalaka</i>').add_to(m)
+
+folium.Marker([-6.8142147, 107.9495215], popup='<i>Ar Cell Cimalaka</i>').add_to(m)
+
+
 
 #punya ara
 folium.Marker([-6.770038, 107.970807], popup='<i>Gunung Karang. Anak Gunung Tampomas </i>').add_to(m)
