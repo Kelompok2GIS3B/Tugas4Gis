@@ -185,6 +185,27 @@ folium.Marker(-6.848571, 107.946712], popup='<i>SMAN 2 Sumedang</i>').add_to(m)
 
 folium.Marker(-6.761271, 107.879122], popup='<i>SMAN Tanjungkerta</i>').add_to(m)
 
+folium.Marker(-6.838221, 107.927368], popup='<i>Selaz Cafe</i>').add_to(m)
+
+folium.Marker(-6.934464, 107.769324], popup='<i>Checo "The Legendary Place"</i>').add_to(m)
+
+folium.Marker(-6.839422, 107.926784], popup='<i>Cinta Cafe</i>').add_to(m)
+
+folium.Marker(-6.856618, 107.924045], popup='<i>Lazyvery Garden Cafe</i>').add_to(m)
+
+folium.Marker(-6.850604, 107.922965], popup='<i>Orchid Cafe</i>').add_to(m)
+
+folium.Marker(-6.896901, 107.808181], popup='<i>Mahata Cafe</i>').add_to(m)
+
+folium.Marker(-6.853799, 107.922202], popup='<i>Ngopi Bung</i>').add_to(m)
+
+folium.Marker(-6.936808, 107.762047], popup='<i>Bosa Cafe</i>').add_to(m)
+
+folium.Marker(-6.858572, 107.921570], popup='<i>Cloffee Sumedang</i>').add_to(m)
+
+folium.Marker(-6.863721, 107.919123], popup='<i>Bukan Cafe Dan Resto</i>').add_to(m)
+
+
 
  #M.Fajri Mualim
  folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
