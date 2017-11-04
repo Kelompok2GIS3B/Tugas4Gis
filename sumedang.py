@@ -402,6 +402,26 @@ folium.Marker([-6.793120, 107.921288], popup='<i>Majelis Taklim (MT) Al Musri</i
 
 folium.Marker([-6.858972, 107.920560], popup='<i>Gedung DPRD Sumedang</i>').add_to(m)
 
+folium.Marker([-6.860398, 107.916387], popup='<i>Tugu Binokasih</i>').add_to(m)
+
+folium.Marker([-6.860672, 107.916691], popup='<i>Polsek Sumedang Selatan</i>').add_to(m)
+
+folium.Marker([-6.860283, 107.915733], popup='<i>Taman Mahkota Sumedang</i>').add_to(m)
+
+folium.Marker([-6.860706, 107.915030], popup='<i>Kantor KreditPlus</i>').add_to(m)
+
+folium.Marker([-6.861389, 107.917501], popup='<i>SMP Negeri 3 Sumedang</i>').add_to(m)
+
+folium.Marker([-6.859719, 107.916433], popup='<i>TAMAN AIR MANCUR TUGU BINOKASIH</i>').add_to(m)
+
+folium.Marker([-6.858353, 107.916913], popup='<i>Purba Rental Studio</i>').add_to(m)
+
+folium.Marker([-6.859671, 107.919949], popup='<i>Masjid Agung Sumedang</i>').add_to(m)
+
+folium.Marker([-6.859021, 107.918807], popup='<i>WARUNG HAJI ATEP</i>').add_to(m)
+
+folium.Marker([-6.860174, 107.917726], popup='<i>Pt. Tiki Jalur Nugraha Ekakurir</i>').add_to(m)
+
 folium.Marker(
     location=[-6.859733, 107.920774],
     popup='Alun-Alun Sumedang',
