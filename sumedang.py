@@ -248,6 +248,26 @@ folium.Marker(-6.863721, 107.919123], popup='<i>Bukan Cafe Dan Resto</i>').add_t
     
  folium.Marker(-6.991434, 108.058625], popup='<i>Cipasang</i>').add_to(m)
 
+ folium.Marker(-6.947814, 107.764741], popup='<i>Jatinangor</i>').add_to(m)
+    
+ folium.Marker(-6.881012, 107.757874], popup='<i>Sukasari</i>').add_to(m)
+
+ folium.Marker(-6.830563, 107.779847], popup='<i>Cijambu</i>').add_to(m)
+    
+ folium.Marker(-6.792383, 108.110810], popup='<i>Karyamukti</i>').add_to(m)
+
+ folium.Marker(-6.896009, 108.206941], popup='<i>Cimanintin</i>').add_to(m)
+    
+ folium.Marker(-6.970988, 108.162995], popup='<i>Kirisik</i>').add_to(m)
+
+ folium.Marker(-7.035051, 108.130036], popup='<i>Cilengkrang</i>').add_to(m)
+    
+ folium.Marker(-6.916459, 108.124543], popup='<i>Mekarasih</i>').add_to(m)
+
+ folium.Marker(-6.921912, 108.150636], popup='<i>Sukamanah</i>').add_to(m)
+    
+ folium.Marker(-6.856470, 108.020173], popup='<i>Situraja</i>').add_to(m)    
+
 #Faisal Syarifuddin
 folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
 
