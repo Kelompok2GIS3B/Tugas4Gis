@@ -244,12 +244,19 @@ folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').a
 
 
 folium.Marker(-6.876860, 107.909489], popup='<i>Kampung Toga</i>').add_to(m)
+
 folium.Marker(-6.948836, 107.767654], popup='<i>Cipacu</i>').add_to(m)
+
 folium.Marker(-6.950540, 107.805934], popup='<i>Cimanggung</i>').add_to(m)
+
 folium.Marker(-6.874195, 107.763362], popup='<i>Sukasari</i>').add_to(m)
+
 folium.Marker(-6.833290, 107.759243], popup='<i>Genteng</i>').add_to(m)
+
 folium.Marker(-6.900099, 107.818294], popup='<i>Tanjungsari</i>').add_to(m)
+
 folium.Marker(-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
+
 folium.Marker(-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
 
 
@@ -332,6 +339,67 @@ folium.Marker([-6.794670, 107.924566], popup='<i>PT. Pertani Sumedang</i>').add_
 folium.Marker([-6.793120, 107.921288], popup='<i>Majelis Taklim (MT) Al Musri</i>').add_to(m)
 
 folium.Marker([-6.858972, 107.920560], popup='<i>Gedung DPRD Sumedang</i>').add_to(m)
+
+folium.Marker(
+    location=[-6.859733, 107.920774],
+    popup='Alun-Alun Sumedang',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.858983, 107.921123],
+    popup='Kantor Kejaksaan Negri Sumedang',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.859180, 107.922126],
+    popup='BPJS Kesehatan',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.858146, 107.921976],
+    popup='Koperasi Pegawai Kesehatan Sumedang',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.859785, 107.921607],
+    popup='Lapas Sumedang',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.859626, 107.921942],
+    popup='Warung Telkom',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.858893, 107.921586],
+    popup='Honda Pasteur Sumedang',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.858688, 107.921564],
+    popup='Warung Nasi Kabengbat',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.860829, 107.920481],
+    popup='BPBD SUMEDANG',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
+folium.Marker(
+    location=[-6.861482, 107.920612],
+    popup='Kantor Bupati Sumedang',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+
 
 folium.RegularPolygonMarker(
     [-6.865854, 108.064279],
