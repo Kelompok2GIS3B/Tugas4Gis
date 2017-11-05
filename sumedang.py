@@ -205,7 +205,25 @@ folium.Marker(-6.858572, 107.921570], popup='<i>Cloffee Sumedang</i>').add_to(m)
 
 folium.Marker(-6.863721, 107.919123], popup='<i>Bukan Cafe Dan Resto</i>').add_to(m)
 
+folium.Marker(-6.861114, 107.920862], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
 
+folium.Marker(-6.903779, 108.078443], popup='<i>Wisata Air Historis Kampung Cibogo - Waduk Jatigede</i>').add_to(m)
+
+folium.Marker(-6.859740, 107.920732], popup='<i>Alun-Alun Sumedang</i>').add_to(m)
+
+folium.Marker(-6.963031, 107.882325], popup='<i>Curug Cinulang (Sindulang)</i>').add_to(m)
+
+folium.Marker(-6.876846, 107.909222], popup='<i>Kampung Toga</i>').add_to(m)
+
+folium.Marker(-6.913681, 107.960632], popup='<i>Curug Gorobog</i>').add_to(m)
+
+folium.Marker(-6.865873, 108.064270], popup='<i>Puncak Damar Waduk Jatigede</i>').add_to(m)
+
+folium.Marker(-6.847341, 107.924156], popup='<i>Taman Endog Sumedang</i>').add_to(m)
+
+folium.Marker(-6.829482, 107.798097], popup='<i>Wisata Kampoeng Ciherang</i>').add_to(m)
+
+folium.Marker(-6.855877, 107.916878], popup='<i>Tahura Gunung Kunci</i>').add_to(m)
 
  #M.Fajri Mualim
  folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
@@ -303,6 +321,7 @@ folium.Marker(-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>')
 
 folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
 
+
 folium.Marker(-6.876860, 107.909489], popup='<i>Kampung Toga</i>').add_to(m)
 
 folium.Marker(-6.948836, 107.767654], popup='<i>Cipacu</i>').add_to(m)
@@ -320,31 +339,21 @@ folium.Marker(-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
 folium.Marker(-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
 
 
-folium.Marker(
-    location=[-6.898942, 107.352916],
+folium.RegularPolygonMarker(
+    [-6.898942, 107.352916],
     popup='Curug Cukang Rahong',
-    icon=folium.Icon(icon='cloud')
-)add_to(m)
-folium.Marker(
-    location=[-6.917003, 107.848504],
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+).add_to(m)
+
+folium.RegularPolygonMarker(
+    [-6.917003, 107.848504],
     popup='Pangjugjugan',
-    icon=folium.Icon(icon='cloud')
-)add_to(m)
-folium.Marker(
-    location=[-6.841472, 107.823787],
-    popup='Rancakalong',
-    icon=folium.Icon(icon='cloud')
-)add_to(m)
-folium.Marker(
-    location=[-6.909642, 107.856746],
-    popup='Pamulihan',
-    icon=folium.Icon(icon='cloud')
-)add_to(m)
-folium.Marker(
-    location=[-6.900099, 107.818294],
-    popup='Tanjungsari',
-    icon=folium.Icon(icon='cloud')
-)add_to(m)
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+).add_to(m)
 
 
 #jangan dihapus gan ini punya agung
