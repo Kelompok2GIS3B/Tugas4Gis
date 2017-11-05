@@ -303,7 +303,6 @@ folium.Marker(-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>')
 
 folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
 
-
 folium.Marker(-6.876860, 107.909489], popup='<i>Kampung Toga</i>').add_to(m)
 
 folium.Marker(-6.948836, 107.767654], popup='<i>Cipacu</i>').add_to(m)
@@ -321,21 +320,31 @@ folium.Marker(-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
 folium.Marker(-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
 
 
-folium.RegularPolygonMarker(
-    [-6.898942, 107.352916],
+folium.Marker(
+    location=[-6.898942, 107.352916],
     popup='Curug Cukang Rahong',
-    fill_color='#769d96',
-    number_of_sides=6,
-    radius=10
-).add_to(m)
-
-folium.RegularPolygonMarker(
-    [-6.917003, 107.848504],
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+folium.Marker(
+    location=[-6.917003, 107.848504],
     popup='Pangjugjugan',
-    fill_color='#769d96',
-    number_of_sides=8,
-    radius=10
-).add_to(m)
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+folium.Marker(
+    location=[-6.841472, 107.823787],
+    popup='Rancakalong',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+folium.Marker(
+    location=[-6.909642, 107.856746],
+    popup='Pamulihan',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
+folium.Marker(
+    location=[-6.900099, 107.818294],
+    popup='Tanjungsari',
+    icon=folium.Icon(icon='cloud')
+)add_to(m)
 
 
 #jangan dihapus gan ini punya agung
