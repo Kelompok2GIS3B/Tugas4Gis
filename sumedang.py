@@ -379,6 +379,25 @@ folium.Marker([-6.8142058, 107.949503], popup='<i>BJB Cimalaka</i>').add_to(m)
 
 folium.Marker([-6.8142147, 107.9495215], popup='<i>Ar Cell Cimalaka</i>').add_to(m)
 
+folium.Marker([-6.8393264, 107.9264582], popup='<i>Toko Mujur</i>').add_to(m)
+
+folium.Marker([-6.8393265, 107.9264928], popup='<i>Kantor Perpustakaan Daerah</i>').add_to(m)
+
+folium.Marker([-6.8394077, 107.9264557], popup='<i>Pelangi Medal</i>').add_to(m)
+
+folium.Marker([-6.8395344, 107.9261599], popup='<i>Toko Kue Lapis Legit Ara Bakery</i>').add_to(m)
+
+folium.Marker([-6.8394331, 107.9265224], popup='<i>Hot Plate Corner</i>').add_to(m)
+
+folium.Marker([-6.839438, 107.9266252], popup='<i>Cinta Cafe</i>').add_to(m)
+
+folium.Marker([-6.839502, 107.9266822], popup='<i>Kedai Dekranasda</i>').add_to(m)
+
+folium.Marker([-6.8393163, 107.9266997], popup='<i>Chaky Shoes</i>').add_to(m)
+
+folium.Marker([-6.8393316, 107.9267223], popup='<i>Ayam Bakar Mayora 187</i>').add_to(m)
+
+folium.Marker([-6.8393083, 107.9267432], popup='<i>G21 Fashion</i>').add_to(m)
 
 
 #punya ara
