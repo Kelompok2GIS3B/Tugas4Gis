@@ -115,228 +115,225 @@ folium.Marker([-6.855555, 107.909586], popup='<i>Gn. Palasari</i>').add_to(m)
 
 folium.Marker([-6.856026,+108.096522], popup='<i>Waduk Jatigede</i>').add_to(m)
 
-folium.Marker(-6.929583, 107.763515], popup='<i>La Fasa Hotel</i>').add_to(m)
+folium.Marker([-6.929583, 107.763515], popup='<i>La Fasa Hotel</i>').add_to(m)
 
-folium.Marker(-6.935194, 107.759305], popup='<i>Hotel Jatinangor</i>').add_to(m)
+folium.Marker([-6.935194, 107.759305], popup='<i>Hotel Jatinangor</i>').add_to(m)
 
-folium.Marker(-6.854387, 107.919227], popup='<i>Amory Boutique Hotel</i>').add_to(m)
+folium.Marker([-6.854387, 107.919227], popup='<i>Amory Boutique Hotel</i>').add_to(m)
 
-folium.Marker(-6.854389, 107.919222], popup='<i>Puri Mutiara Hotel</i>').add_to(m)
+folium.Marker([-6.854389, 107.919222], popup='<i>Puri Mutiara Hotel</i>').add_to(m)
 
-folium.Marker(-6.819240, 107.941527], popup='<i>Hotel Pesona Sumedang</i>').add_to(m)
+folium.Marker([-6.819240, 107.941527], popup='<i>Hotel Pesona Sumedang</i>').add_to(m)
 
-folium.Marker(-6.934690, 107.769848], popup='<i>Hotel Citra Papan 1</i>').add_to(m)
+folium.Marker([-6.934690, 107.769848], popup='<i>Hotel Citra Papan 1</i>').add_to(m)
 
-folium.Marker(-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Resort</i>').add_to(ma)
+folium.Marker([-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Resort</i>').add_to(ma)
 
-folium.Marker(-6.725559, 107.944638], popup='<i>Bojongloa</i>').add_to(m)
+folium.Marker([-6.725559, 107.944638], popup='<i>Bojongloa</i>').add_to(m)
 
-folium.Marker(-6.740561, 108.006436], popup='<i>Conggeang</i>').add_to(m)
+folium.Marker([-6.740561, 108.006436], popup='<i>Conggeang</i>').add_to(m)
 
-folium.Marker(-7.030962, 108.135526], popup='<i>Wado</i>').add_to(m)
+folium.Marker([-7.030962, 108.135526], popup='<i>Wado</i>').add_to(m)
 
-folium.Marker(-6.946450, 107.885587], popup='<i>Cimanggung</i>').add_to(m)
+folium.Marker([-6.946450, 107.885587], popup='<i>Cimanggung</i>').add_to(m)
 
-folium.Marker(-6.606890, 107.869107], popup='<i>Tanjung</i>').add_to(m)
+folium.Marker([-6.606890, 107.869107], popup='<i>Tanjung</i>').add_to(m)
 
-folium.Marker(-6.811901, 107.945918], popup='<i>R.M Joglo Sumedang</i>').add_to(m)
+folium.Marker([-6.811901, 107.945918], popup='<i>R.M Joglo Sumedang</i>').add_to(m)
 
-folium.Marker(-6.822698, 107.939604], popup='<i>Saung Teko</i>').add_to(m)
+folium.Marker([-6.822698, 107.939604], popup='<i>Saung Teko</i>').add_to(m)
 
-folium.Marker(-6.803828, 107.969396], popup='<i>Rumah Makan Fish 88</i>').add_to(m)
+folium.Marker([-6.803828, 107.969396], popup='<i>Rumah Makan Fish 88</i>').add_to(m)
 
-folium.Marker(-6.824482, 107.938373], popup='<i>Rumah Makan Alam Sari</i>').add_to(m)
+folium.Marker([-6.824482, 107.938373], popup='<i>Rumah Makan Alam Sari</i>').add_to(m)
 
-folium.Marker(-6.797927, 107.990906], popup='<i>Rumah Makan Mah Nini</i>').add_to(m)
+folium.Marker([-6.797927, 107.990906], popup='<i>Rumah Makan Mah Nini</i>').add_to(m)
 
-folium.Marker(-6.808967, 107.955017], popup='<i>Kartika Rumah Makan</i>').add_to(m)
+folium.Marker([-6.808967, 107.955017], popup='<i>Kartika Rumah Makan</i>').add_to(m)
 
-folium.Marker(-6.922459, 107.782507], popup='<i>Rumah Makan Tahu Sumedang Sari Kedele,</i>').add_to(m)
+folium.Marker([-6.922459, 107.782507], popup='<i>Rumah Makan Tahu Sumedang Sari Kedele,</i>').add_to(m)
 
-folium.Marker(-6.914389, 107.789620], popup='<i>Rumah Makan Organik Saung Nini</i>').add_to(m)
+folium.Marker([-6.914389, 107.789620], popup='<i>Rumah Makan Organik Saung Nini</i>').add_to(m)
 
-folium.Marker(-6.864310, 107.872910], popup='<i>Ponyo Sumedang</i>').add_to(m)
+folium.Marker([-6.864310, 107.872910], popup='<i>Ponyo Sumedang</i>').add_to(m)
 
-folium.Marker(-6.835067, 107.925451], popup='<i>Rumah Makan Minang Bahari</i>').add_to(m)
+folium.Marker([-6.835067, 107.925451], popup='<i>Rumah Makan Minang Bahari</i>').add_to(m)
 
-folium.Marker(-6.840218, 107.925675], popup='<i>Tahu Palasari Sumedang</i>').add_to(m)
+folium.Marker([-6.840218, 107.925675], popup='<i>Tahu Palasari Sumedang</i>').add_to(m)
 
-folium.Marker(-6.928392, 107.779781], popup='<i>Rumah Makan Sawargi</i>').add_to(m)
+folium.Marker([-6.928392, 107.779781], popup='<i>Rumah Makan Sawargi</i>').add_to(m)
 
-folium.Marker(-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i>').add_to(m)
+folium.Marker([-6.844475, 107.915667], popup='<i>Rumah Makan Saung Cibingbin 2</i>').add_to(m)
 
-folium.Marker(-6.854103, 107.920521], popup='<i>SMAN 1 Sumedang</i>').add_to(m)
+folium.Marker([-6.854103, 107.920521], popup='<i>SMAN 1 Sumedang</i>').add_to(m)
 
-folium.Marker(-6.926752, 107.779859], popup='<i>SMAS PGRI Jatinangor</i>').add_to(m)
+folium.Marker([-6.926752, 107.779859], popup='<i>SMAS PGRI Jatinangor</i>').add_to(m)
 
-folium.Marker(-6.837319, 107.929554], popup='<i>SMAN 3 Sumedang</i>').add_to(m)
+folium.Marker([-6.837319, 107.929554], popup='<i>SMAN 3 Sumedang</i>').add_to(m)
 
-folium.Marker(-6.939237, 107.788294], popup='<i>SMP Darul Fatwa</i>').add_to(m)
+folium.Marker([-6.939237, 107.788294], popup='<i>SMP Darul Fatwa</i>').add_to(m)
 
-folium.Marker(-6.835841, 107.928380], popup='<i>SMK Negeri 2 Sumedang</i>').add_to(m)
+folium.Marker([-6.835841, 107.928380], popup='<i>SMK Negeri 2 Sumedang</i>').add_to(m)
 
-folium.Marker(-6.825701, 107.849603], popup='<i>SMAN Rancakalong</i>').add_to(m)
+folium.Marker([-6.825701, 107.849603], popup='<i>SMAN Rancakalong</i>').add_to(m)
 
-folium.Marker(-6.961688, 107.813104], popup='<i>SMAS Plus Guna Cipta</i>').add_to(m)
+folium.Marker([-6.961688, 107.813104], popup='<i>SMAS Plus Guna Cipta</i>').add_to(m)
 
-folium.Marker(-6.837553, 107.927351], popup='<i>SMKN 1 Sumedang</i>').add_to(m)
+folium.Marker([-6.837553, 107.927351], popup='<i>SMKN 1 Sumedang</i>').add_to(m)
 
-folium.Marker(-6.848571, 107.946712], popup='<i>SMAN 2 Sumedang</i>').add_to(m)
+folium.Marker([-6.848571, 107.946712], popup='<i>SMAN 2 Sumedang</i>').add_to(m)
 
-folium.Marker(-6.761271, 107.879122], popup='<i>SMAN Tanjungkerta</i>').add_to(m)
+folium.Marker([-6.761271, 107.879122], popup='<i>SMAN Tanjungkerta</i>').add_to(m)
 
-folium.Marker(-6.838221, 107.927368], popup='<i>Selaz Cafe</i>').add_to(m)
+folium.Marker([-6.838221, 107.927368], popup='<i>Selaz Cafe</i>').add_to(m)
 
-folium.Marker(-6.934464, 107.769324], popup='<i>Checo "The Legendary Place"</i>').add_to(m)
+folium.Marker([-6.934464, 107.769324], popup='<i>Checo "The Legendary Place"</i>').add_to(m)
 
-folium.Marker(-6.839422, 107.926784], popup='<i>Cinta Cafe</i>').add_to(m)
+folium.Marker([-6.839422, 107.926784], popup='<i>Cinta Cafe</i>').add_to(m)
 
-folium.Marker(-6.856618, 107.924045], popup='<i>Lazyvery Garden Cafe</i>').add_to(m)
+folium.Marker([-6.856618, 107.924045], popup='<i>Lazyvery Garden Cafe</i>').add_to(m)
 
-folium.Marker(-6.850604, 107.922965], popup='<i>Orchid Cafe</i>').add_to(m)
+folium.Marker([-6.850604, 107.922965], popup='<i>Orchid Cafe</i>').add_to(m)
 
-folium.Marker(-6.896901, 107.808181], popup='<i>Mahata Cafe</i>').add_to(m)
+folium.Marker([-6.896901, 107.808181], popup='<i>Mahata Cafe</i>').add_to(m)
 
-folium.Marker(-6.853799, 107.922202], popup='<i>Ngopi Bung</i>').add_to(m)
+folium.Marker([-6.853799, 107.922202], popup='<i>Ngopi Bung</i>').add_to(m)
 
-folium.Marker(-6.936808, 107.762047], popup='<i>Bosa Cafe</i>').add_to(m)
+folium.Marker([-6.936808, 107.762047], popup='<i>Bosa Cafe</i>').add_to(m)
 
-folium.Marker(-6.858572, 107.921570], popup='<i>Cloffee Sumedang</i>').add_to(m)
+folium.Marker([-6.858572, 107.921570], popup='<i>Cloffee Sumedang</i>').add_to(m)
 
-folium.Marker(-6.863721, 107.919123], popup='<i>Bukan Cafe Dan Resto</i>').add_to(m)
+folium.Marker([-6.863721, 107.919123], popup='<i>Bukan Cafe Dan Resto</i>').add_to(m)
 
-folium.Marker(-6.861114, 107.920862], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
+folium.Marker([-6.861114, 107.920862], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
 
-folium.Marker(-6.903779, 108.078443], popup='<i>Wisata Air Historis Kampung Cibogo - Waduk Jatigede</i>').add_to(m)
+folium.Marker([-6.903779, 108.078443], popup='<i>Wisata Air Historis Kampung Cibogo - Waduk Jatigede</i>').add_to(m)
 
-folium.Marker(-6.859740, 107.920732], popup='<i>Alun-Alun Sumedang</i>').add_to(m)
+folium.Marker([-6.859740, 107.920732], popup='<i>Alun-Alun Sumedang</i>').add_to(m)
 
-folium.Marker(-6.963031, 107.882325], popup='<i>Curug Cinulang (Sindulang)</i>').add_to(m)
+folium.Marker([-6.963031, 107.882325], popup='<i>Curug Cinulang (Sindulang)</i>').add_to(m)
 
-folium.Marker(-6.876846, 107.909222], popup='<i>Kampung Toga</i>').add_to(m)
+folium.Marker([-6.876846, 107.909222], popup='<i>Kampung Toga</i>').add_to(m)
 
-folium.Marker(-6.913681, 107.960632], popup='<i>Curug Gorobog</i>').add_to(m)
+folium.Marker([-6.913681, 107.960632], popup='<i>Curug Gorobog</i>').add_to(m)
 
-folium.Marker(-6.865873, 108.064270], popup='<i>Puncak Damar Waduk Jatigede</i>').add_to(m)
+folium.Marker([-6.865873, 108.064270], popup='<i>Puncak Damar Waduk Jatigede</i>').add_to(m)
 
-folium.Marker(-6.847341, 107.924156], popup='<i>Taman Endog Sumedang</i>').add_to(m)
+folium.Marker([-6.847341, 107.924156], popup='<i>Taman Endog Sumedang</i>').add_to(m)
 
-folium.Marker(-6.829482, 107.798097], popup='<i>Wisata Kampoeng Ciherang</i>').add_to(m)
+folium.Marker([-6.829482, 107.798097], popup='<i>Wisata Kampoeng Ciherang</i>').add_to(m)
 
-folium.Marker(-6.855877, 107.916878], popup='<i>Tahura Gunung Kunci</i>').add_to(m)
+folium.Marker([-6.855877, 107.916878], popup='<i>Tahura Gunung Kunci</i>').add_to(m)
 
- #M.Fajri Mualim
- folium.Marker(-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
+folium.Marker([-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
 
- folium.Marker(-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
+folium.Marker([-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
 
- folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
 
- folium.Marker(-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
+folium.Marker([-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
 
- folium.Marker(-6.823746, 107.751008], popup='<i>Genteng</i>').add_to(m)
+folium.Marker([-6.823746, 107.751008], popup='<i>Genteng</i>').add_to(m)
 
- folium.Marker(-6.582335, 107.860871], popup='<i>Tanjung</i>').add_to(m)
+folium.Marker([-6.582335, 107.860871], popup='<i>Tanjung</i>').add_to(m)
 
- folium.Marker(-6.642358, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+folium.Marker([-6.642358, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
 
- folium.Marker(-6.988708, 108.039399], popup='<i>Jayamandiri</i>').add_to(m)
+folium.Marker([-6.988708, 108.039399], popup='<i>Jayamandiri</i>').add_to(m)
 
- folium.Marker(-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
+folium.Marker([-7.036414, 108.131410], popup='<i>Cilengkrang</i>').add_to(m)
 
- folium.Marker(-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
+folium.Marker([-6.981893, 108.038026], popup='<i>Cibugel</i>').add_to(m)
     
- folium.Marker(-6.735106, 108.123170], popup='<i>Ujung Jaya</i>').add_to(m)
+folium.Marker([-6.735106, 108.123170], popup='<i>Ujung Jaya</i>').add_to(m)
 
- folium.Marker(-6.890556, 107.974854], popup='<i>Ganeas</i>').add_to(m)
+folium.Marker([-6.890556, 107.974854], popup='<i>Ganeas</i>').add_to(m)
  
- folium.Marker(-6.729651, 108.157502], popup='<i>Kudangwangi</i>').add_to(m)
+folium.Marker([-6.729651, 108.157502], popup='<i>Kudangwangi</i>').add_to(m)
  
- folium.Marker(-6.935545, 108.009187], popup='<i>Cipeuteuy</i>').add_to(m)
+folium.Marker([-6.935545, 108.009187], popup='<i>Cipeuteuy</i>').add_to(m)
   
- folium.Marker(-6.807383, 107.792207], popup='<i>Rancakalong</i>').add_to(m)
+folium.Marker([-6.807383, 107.792207], popup='<i>Rancakalong</i>').add_to(m)
     
- folium.Marker(-6.949177, 107.957002], popup='<i>CItengah</i>').add_to(m)
+folium.Marker([-6.949177, 107.957002], popup='<i>CItengah</i>').add_to(m)
 
- folium.Marker(-6.970988, 108.090211], popup='<i>Wado</i>').add_to(m)
+folium.Marker([-6.970988, 108.090211], popup='<i>Wado</i>').add_to(m)
     
- folium.Marker(-6.664182, 107.983094], popup='<i>Gendereh</i>').add_to(m)
+folium.Marker([-6.664182, 107.983094], popup='<i>Gendereh</i>').add_to(m)
 
- folium.Marker(-6.945087, 107.907563], popup='<i>Sindulang</i>').add_to(m)
+folium.Marker([-6.945087, 107.907563], popup='<i>Sindulang</i>').add_to(m)
     
- folium.Marker(-6.991434, 108.058625], popup='<i>Cipasang</i>').add_to(m)
+folium.Marker([-6.991434, 108.058625], popup='<i>Cipasang</i>').add_to(m)
 
- folium.Marker(-6.947814, 107.764741], popup='<i>Jatinangor</i>').add_to(m)
+folium.Marker([-6.947814, 107.764741], popup='<i>Jatinangor</i>').add_to(m)
     
- folium.Marker(-6.881012, 107.757874], popup='<i>Sukasari</i>').add_to(m)
+folium.Marker([-6.881012, 107.757874], popup='<i>Sukasari</i>').add_to(m)
 
- folium.Marker(-6.830563, 107.779847], popup='<i>Cijambu</i>').add_to(m)
+folium.Marker([-6.830563, 107.779847], popup='<i>Cijambu</i>').add_to(m)
     
- folium.Marker(-6.792383, 108.110810], popup='<i>Karyamukti</i>').add_to(m)
+folium.Marker([-6.792383, 108.110810], popup='<i>Karyamukti</i>').add_to(m)
 
- folium.Marker(-6.896009, 108.206941], popup='<i>Cimanintin</i>').add_to(m)
+folium.Marker([-6.896009, 108.206941], popup='<i>Cimanintin</i>').add_to(m)
     
- folium.Marker(-6.970988, 108.162995], popup='<i>Kirisik</i>').add_to(m)
+folium.Marker([-6.970988, 108.162995], popup='<i>Kirisik</i>').add_to(m)
 
- folium.Marker(-7.035051, 108.130036], popup='<i>Cilengkrang</i>').add_to(m)
+folium.Marker([-7.035051, 108.130036], popup='<i>Cilengkrang</i>').add_to(m)
     
- folium.Marker(-6.916459, 108.124543], popup='<i>Mekarasih</i>').add_to(m)
+folium.Marker([-6.916459, 108.124543], popup='<i>Mekarasih</i>').add_to(m)
 
- folium.Marker(-6.921912, 108.150636], popup='<i>Sukamanah</i>').add_to(m)
+folium.Marker([-6.921912, 108.150636], popup='<i>Sukamanah</i>').add_to(m)
     
- folium.Marker(-6.856470, 108.020173], popup='<i>Situraja</i>').add_to(m)
+folium.Marker([-6.856470, 108.020173], popup='<i>Situraja</i>').add_to(m)
 
- folium.Marker(-6.815564, 107.935029], popup='<i>Cimalaka</i>').add_to(m)
+folium.Marker([-6.815564, 107.935029], popup='<i>Cimalaka</i>').add_to(m)
 
- folium.Marker(-6.781473, 108.005067], popup='<i>Paseh</i>').add_to(m)
+folium.Marker([-6.781473, 108.005067], popup='<i>Paseh</i>').add_to(m)
 
- folium.Marker(-6.777382, 108.053132], popup='<i>Bugel</i>').add_to(m)
+folium.Marker([-6.777382, 108.053132], popup='<i>Bugel</i>').add_to(m)
     
- folium.Marker(-6.737834, 107.987214], popup='<i>Sekarwangi</i>').add_to(m)
+folium.Marker([-6.737834, 107.987214], popup='<i>Sekarwangi</i>').add_to(m)
 
- folium.Marker(-6.722831, 108.020173], popup='<i>Karanglayung</i>').add_to(m)
+folium.Marker([-6.722831, 108.020173], popup='<i>Karanglayung</i>').add_to(m)
     
- folium.Marker(-6.692826, 107.973481], popup='<i>Cibuan</i>').add_to(m)
+folium.Marker([-6.692826, 107.973481], popup='<i>Cibuan</i>').add_to(m)
 
- folium.Marker(-6.897372, 107.869111], popup='<i>Pamulihan</i>').add_to(m)
+folium.Marker([-6.897372, 107.869111], popup='<i>Pamulihan</i>').add_to(m)
     
- folium.Marker(-6.638265, 107.954255], popup='<i>Ciawitali</i>').add_to(m)
+folium.Marker([-6.638265, 107.954255], popup='<i>Ciawitali</i>').add_to(m)
 
- folium.Marker(-6.665546, 107.870484], popup='<i>Surian</i>').add_to(m)
+folium.Marker([-6.665546, 107.870484], popup='<i>Surian</i>').add_to(m)
     
- folium.Marker(-6.936908, 107.984468], popup='<i>Cimarga</i>').add_to(m)
+folium.Marker([-6.936908, 107.984468], popup='<i>Cimarga</i>').add_to(m)
 
-#Faisal Syarifuddin
-folium.Marker(-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
+folium.Marker([-6.898942, 107.352916], popup='<i>Curug Cukang Rahong</i>').add_to(m)
 
-folium.Marker(-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
+folium.Marker([-6.917003, 107.848504], popup='<i>Pangjugjugan</i>').add_to(m)
 
-folium.Marker(-6.939296, 107.990470], popup='<i>Gn. Margawindu</i>').add_to(m)
+folium.Marker([-6.939296, 107.990470], popup='<i>Gn. Margawindu</i>').add_to(m)
 
-folium.Marker(-6.876860, 107.909446], popup='<i>Kampung Toga</i>').add_to(m)
+folium.Marker([-6.876860, 107.909446], popup='<i>Kampung Toga</i>').add_to(m)
 
-folium.Marker(-6.925465, 107.779360], popup='<i>Jembatan Cincin Cikuda</i>').add_to(m)
+folium.Marker([-6.925465, 107.779360], popup='<i>Jembatan Cincin Cikuda</i>').add_to(m)
 
-folium.Marker(-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>').add_to(m)
+folium.Marker([-6.914280, 107.950801], popup='<i>Saung Cibingbin 1 Sumedang</i>').add_to(m)
 
-folium.Marker(-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
+folium.Marker([-6.861172, 107.921199], popup='<i>Museum Prabu Geusan Ulun</i>').add_to(m)
 
+folium.Marker([-6.876860, 107.909489], popup='<i>Kampung Toga</i>').add_to(m)
 
-folium.Marker(-6.876860, 107.909489], popup='<i>Kampung Toga</i>').add_to(m)
+folium.Marker([-6.948836, 107.767654], popup='<i>Cipacu</i>').add_to(m)
 
-folium.Marker(-6.948836, 107.767654], popup='<i>Cipacu</i>').add_to(m)
+folium.Marker([-6.950540, 107.805934], popup='<i>Cimanggung</i>').add_to(m)
 
-folium.Marker(-6.950540, 107.805934], popup='<i>Cimanggung</i>').add_to(m)
+folium.Marker([-6.874195, 107.763362], popup='<i>Sukasari</i>').add_to(m)
 
-folium.Marker(-6.874195, 107.763362], popup='<i>Sukasari</i>').add_to(m)
+folium.Marker([-6.833290, 107.759243], popup='<i>Genteng</i>').add_to(m)
 
-folium.Marker(-6.833290, 107.759243], popup='<i>Genteng</i>').add_to(m)
+folium.Marker([-6.900099, 107.818294], popup='<i>Tanjungsari</i>').add_to(m)
 
-folium.Marker(-6.900099, 107.818294], popup='<i>Tanjungsari</i>').add_to(m)
+folium.Marker([-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
 
-folium.Marker(-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
-
-folium.Marker(-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
+folium.Marker([-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
 
 
 folium.RegularPolygonMarker(
@@ -437,8 +434,6 @@ folium.Marker([-6.8393316, 107.9267223], popup='<i>Ayam Bakar Mayora 187</i>').a
 
 folium.Marker([-6.8393083, 107.9267432], popup='<i>G21 Fashion</i>').add_to(m)
 
-
-#punya ara
 folium.Marker([-6.770038, 107.970807], popup='<i>Gunung Karang. Anak Gunung Tampomas </i>').add_to(m)
 
 folium.Marker([-6.797147, 107.929517], popup='<i>Adiluhung Futsal</i>').add_to(m)
@@ -618,8 +613,6 @@ folium.Marker(
 
 p
 
-save(m, '4.html')
-save(a, '5.html')
-save(p, '6.html')
-
-#syntax [ diperhatiin ya pada gak ada edit sendiri
+save(m, 'A.html')
+save(a, 'B.html')
+save(p, 'C.html')
