@@ -127,7 +127,7 @@ folium.Marker([-6.819240, 107.941527], popup='<i>Hotel Pesona Sumedang</i>').add
 
 folium.Marker([-6.934690, 107.769848], popup='<i>Hotel Citra Papan 1</i>').add_to(m)
 
-folium.Marker([-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Resort</i>').add_to(ma)
+folium.Marker([-6.916890, 107.765785], popup='<i>Bandung Giri Gahana Golf and Resort</i>').add_to(m)
 
 folium.Marker([-6.725559, 107.944638], popup='<i>Bojongloa</i>').add_to(m)
 
@@ -459,61 +459,61 @@ folium.Marker(
     location=[-6.859733, 107.920774],
     popup='Alun-Alun Sumedang',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.858983, 107.921123],
     popup='Kantor Kejaksaan Negri Sumedang',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.859180, 107.922126],
     popup='BPJS Kesehatan',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.858146, 107.921976],
     popup='Koperasi Pegawai Kesehatan Sumedang',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.859785, 107.921607],
     popup='Lapas Sumedang',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.859626, 107.921942],
     popup='Warung Telkom',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.858893, 107.921586],
     popup='Honda Pasteur Sumedang',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.858688, 107.921564],
     popup='Warung Nasi Kabengbat',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.860829, 107.920481],
     popup='BPBD SUMEDANG',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 folium.Marker(
     location=[-6.861482, 107.920612],
     popup='Kantor Bupati Sumedang',
     icon=folium.Icon(icon='cloud')
-)add_to(m)
+).add_to(m)
 
 
 folium.RegularPolygonMarker(
