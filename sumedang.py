@@ -229,7 +229,7 @@ folium.Marker([-6.713284, 108.053132], popup='<i>Ungkal</i>').add_to(m)
 
 folium.Marker([-6.707829, 107.963868], popup='<i>Buahdua</i>').add_to(m)
 
-folium.Marker(-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
+folium.Marker([-6.650542, 108.043519], popup='<i>Cibuluh</i>').add_to(m)
 
 folium.Marker([-6.960082, 107.807313], popup='<i>Cimanggung</i>').add_to(m)
 
@@ -335,25 +335,6 @@ folium.Marker([-6.909642, 107.856746], popup='<i>Pamulihan</i>').add_to(m)
 
 folium.Marker([-6.841472, 107.823787], popup='<i>Rancakalong</i>').add_to(m)
 
-
-folium.RegularPolygonMarker(
-    [-6.898942, 107.352916],
-    popup='Curug Cukang Rahong',
-    fill_color='#769d96',
-    number_of_sides=6,
-    radius=10
-).add_to(m)
-
-folium.RegularPolygonMarker(
-    [-6.917003, 107.848504],
-    popup='Pangjugjugan',
-    fill_color='#769d96',
-    number_of_sides=8,
-    radius=10
-).add_to(m)
-
-
-#jangan dihapus gan ini punya agung
 folium.Marker([-6.8357715, 107.9294052], popup='<i>KPPN Sumedang</i>').add_to(m)
 
 folium.Marker([-6.8358094, 107.9294468], popup='<i>ATM BRI KPPN Sumedang</i>').add_to(m)
